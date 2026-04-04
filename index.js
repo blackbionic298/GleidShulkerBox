@@ -34,10 +34,11 @@ const ALLOWED_USERS = ['black_1816', 'GleidShulkerBox'].map(u => u.toLowerCase()
 
 // ==================== FACT 系统 ====================
 let facts = [
-  "这个服务器由热爱Minecraft的玩家共同维护！",
-  "使用 $fact 可以随机获得一条服务器趣闻哦~",
-  "机器人由 Mineflayer 驱动，24小时在线！",
-  "欢迎来到 fan.play.hosting！",
+  "This server is jointly maintained by Minecraft-loving players!",
+  "Use $fact to randomly get a fun server fact~",
+  "The bot is online 24/7!",
+  "Welcome to Final Anarchy!",
+  "A lot of people came to Final Anarchy, but they all missed each other! So if you can stay a bit longer, maybe you can meet them!",
 ];
 
 function getRandomFact() {

@@ -75,7 +75,7 @@ function startBot() {
       const m = msg.toLowerCase();
 
       if (m.includes('/register')) bot.chat(`/register ${AUTHME_PASSWORD} ${AUTHME_PASSWORD}`);
-      if (m.includes('/login')) bot.chat(`/login ${AUTHME_PASSWORD}`);
+      if (m.includes('/login')) bot.chat(`/login ${AUTHME_PASSWORD} ${AUTHME_PASSWORD}`);
 
       if (m.includes('success') || m.includes('logged') || m.includes('验证成功') || m.includes('已登录') || m.includes('welcome')) {
         startAntiAFK();

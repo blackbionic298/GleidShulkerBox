@@ -21,7 +21,7 @@ setInterval(() => {
 
 // ===== 配置 =====
 const CONFIG = {
-  host: 'fan.play.hosting',
+  host: 'required.play.hosting',
   port: 25565,
   version: '1.21',
   auth: 'offline',

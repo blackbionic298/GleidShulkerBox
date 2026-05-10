@@ -21,7 +21,7 @@ setInterval(() => {
 
 // ===== 配置 =====
 const CONFIG = {
-  host: 'required.play.hosting',
+  host: 'exam.seedloaf.gg',
   port: 25565,
   version: '1.21',
   auth: 'offline',

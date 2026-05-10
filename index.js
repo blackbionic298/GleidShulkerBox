@@ -67,7 +67,7 @@ function startBot() {
     setTimeout(() => {
       reconnecting = false;
       bot.chat(`/login ${AUTHME_PASSWORD}`);
-      bot.chat(`/register ${AUTHME_PASSWORD});
+      bot.chat(`/register ${AUTHME_PASSWORD}`);
     }, 5000);
 
     // 消息处理

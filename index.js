@@ -27,7 +27,7 @@ const CONFIG = {
   auth: 'offline',
 };
 
-const BOT_USERNAME = 'GSBbot';
+const BOT_USERNAME = 'Yekiy_';
 const AUTHME_PASSWORD = process.env.AUTHME_PASSWORD || 'deutschland';
 
 const ALLOWED_USERS = ['black_1816', 'GleidShulkerBox'].map(u => u.toLowerCase());

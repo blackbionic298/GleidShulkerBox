@@ -21,7 +21,7 @@ setInterval(() => {
 
 // ===== 配置 =====
 const CONFIG = {
-  host: 'cred.falix.gg',
+  host: 'finalanarchy.mcsh.io',
   port: 25565,
   version: '1.21',
   auth: 'offline',

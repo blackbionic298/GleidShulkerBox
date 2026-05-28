@@ -21,7 +21,7 @@ setInterval(() => {
 
 // ===== 配置 =====
 const CONFIG = {
-  host: 'finalanarchy.mcsh.io',
+  host: 'exam.joinmc.world',
   port: 25565,
   version: '1.21',
   auth: 'offline',
